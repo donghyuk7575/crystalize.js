@@ -1,6 +1,6 @@
 {
   "name": "crystalize.js",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "A reducer on steroids, but if reducers had undo/redo and time-travel.",
   "main": "src/index.ts",
   "scripts": {
